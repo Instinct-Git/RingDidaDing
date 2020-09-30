@@ -1,0 +1,14 @@
+{
+  "name": "tutorials",
+  "version": "1.0.0",
+  "main": "src/index",
+  "author": "Connor Moriarty",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "glob": "^7.1.6",
+    "moment": "^2.29.0",
+    "ms": "^2.1.2"
+  }
+}
